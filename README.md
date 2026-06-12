@@ -61,4 +61,6 @@ This project is licensed under the MIT License.
 
 ID: CDUFWIF5WS3LDM33P5T2P3W4TYKXQH24CXNNXZPDN3ZU4N6QUPDW7HHQ
 
-![alt text](Gemini_Generated_Image_8hrd8b8hrd8b8hrd.png)
+![alt text]([Gemini_Generated_Image_8hrd8b8hrd8b8hrd.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEf9e96XPmDemRTuOlbQzjA4DH7jYaA_aEdA&s))
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/df40ca53-66be-44f1-9d1f-81e9fd17ba5a" />
+
